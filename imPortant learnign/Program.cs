@@ -6,7 +6,9 @@ namespace imPortant_learnign
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("ahbfhisab");
+
+            Console.WriteLine("dadadadada");
         }
     }
 }
