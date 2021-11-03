@@ -7,6 +7,8 @@ namespace imPortant_learnign
         static void Main(string[] args)
         {
             Console.WriteLine("sammy");
+            if(teststring == "You")
+                return;
 
             Console.WriteLine("dadadadada");
         }
